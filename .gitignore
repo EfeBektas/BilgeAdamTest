@@ -1,6 +1,14 @@
-bin/ 
-obj/ 
-TestResults/ 
-Drivers/ 
-*.exe 
-*.dll 
+# Build & VS cache
+bin/
+obj/
+TestResults/
+.vs/
+
+# Drivers
+Drivers/
+*.exe
+*.dll
+
+# OS crap
+Thumbs.db
+Desktop.ini
