@@ -1,0 +1,343 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\someo\\source\\repos\\BilgeAdamTest\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BC6EE310-FD2E-4435-95E6-7FC0E4083BDD}|BilgeAdamTest.csproj|c:\\users\\someo\\source\\repos\\bilgeadamtest\\bilgeadamtest.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{BC6EE310-FD2E-4435-95E6-7FC0E4083BDD}|BilgeAdamTest.csproj|solutionrelative:bilgeadamtest.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC6EE310-FD2E-4435-95E6-7FC0E4083BDD}|BilgeAdamTest.csproj|c:\\users\\someo\\source\\repos\\bilgeadamtest\\tests\\checkouttests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC6EE310-FD2E-4435-95E6-7FC0E4083BDD}|BilgeAdamTest.csproj|solutionrelative:tests\\checkouttests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC6EE310-FD2E-4435-95E6-7FC0E4083BDD}|BilgeAdamTest.csproj|c:\\users\\someo\\source\\repos\\bilgeadamtest\\pages\\checkoutcompletepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC6EE310-FD2E-4435-95E6-7FC0E4083BDD}|BilgeAdamTest.csproj|solutionrelative:pages\\checkoutcompletepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC6EE310-FD2E-4435-95E6-7FC0E4083BDD}|BilgeAdamTest.csproj|c:\\users\\someo\\source\\repos\\bilgeadamtest\\pages\\checkoutsteptwopage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC6EE310-FD2E-4435-95E6-7FC0E4083BDD}|BilgeAdamTest.csproj|solutionrelative:pages\\checkoutsteptwopage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC6EE310-FD2E-4435-95E6-7FC0E4083BDD}|BilgeAdamTest.csproj|c:\\users\\someo\\source\\repos\\bilgeadamtest\\pages\\checkoutsteponepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC6EE310-FD2E-4435-95E6-7FC0E4083BDD}|BilgeAdamTest.csproj|solutionrelative:pages\\checkoutsteponepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC6EE310-FD2E-4435-95E6-7FC0E4083BDD}|BilgeAdamTest.csproj|c:\\users\\someo\\source\\repos\\bilgeadamtest\\tests\\carttests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC6EE310-FD2E-4435-95E6-7FC0E4083BDD}|BilgeAdamTest.csproj|solutionrelative:tests\\carttests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC6EE310-FD2E-4435-95E6-7FC0E4083BDD}|BilgeAdamTest.csproj|c:\\users\\someo\\source\\repos\\bilgeadamtest\\utilities\\datareader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC6EE310-FD2E-4435-95E6-7FC0E4083BDD}|BilgeAdamTest.csproj|solutionrelative:utilities\\datareader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC6EE310-FD2E-4435-95E6-7FC0E4083BDD}|BilgeAdamTest.csproj|c:\\users\\someo\\source\\repos\\bilgeadamtest\\pages\\cartpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC6EE310-FD2E-4435-95E6-7FC0E4083BDD}|BilgeAdamTest.csproj|solutionrelative:pages\\cartpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC6EE310-FD2E-4435-95E6-7FC0E4083BDD}|BilgeAdamTest.csproj|c:\\users\\someo\\source\\repos\\bilgeadamtest\\testdata\\products.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BC6EE310-FD2E-4435-95E6-7FC0E4083BDD}|BilgeAdamTest.csproj|solutionrelative:testdata\\products.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC6EE310-FD2E-4435-95E6-7FC0E4083BDD}|BilgeAdamTest.csproj|c:\\users\\someo\\source\\repos\\bilgeadamtest\\tests\\logintests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC6EE310-FD2E-4435-95E6-7FC0E4083BDD}|BilgeAdamTest.csproj|solutionrelative:tests\\logintests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC6EE310-FD2E-4435-95E6-7FC0E4083BDD}|BilgeAdamTest.csproj|c:\\users\\someo\\source\\repos\\bilgeadamtest\\pages\\productspage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC6EE310-FD2E-4435-95E6-7FC0E4083BDD}|BilgeAdamTest.csproj|solutionrelative:pages\\productspage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC6EE310-FD2E-4435-95E6-7FC0E4083BDD}|BilgeAdamTest.csproj|c:\\users\\someo\\source\\repos\\bilgeadamtest\\utilities\\testdatamodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC6EE310-FD2E-4435-95E6-7FC0E4083BDD}|BilgeAdamTest.csproj|solutionrelative:utilities\\testdatamodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC6EE310-FD2E-4435-95E6-7FC0E4083BDD}|BilgeAdamTest.csproj|c:\\users\\someo\\source\\repos\\bilgeadamtest\\utilities\\productmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC6EE310-FD2E-4435-95E6-7FC0E4083BDD}|BilgeAdamTest.csproj|solutionrelative:utilities\\productmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC6EE310-FD2E-4435-95E6-7FC0E4083BDD}|BilgeAdamTest.csproj|c:\\users\\someo\\source\\repos\\bilgeadamtest\\utilities\\customwait.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC6EE310-FD2E-4435-95E6-7FC0E4083BDD}|BilgeAdamTest.csproj|solutionrelative:utilities\\customwait.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC6EE310-FD2E-4435-95E6-7FC0E4083BDD}|BilgeAdamTest.csproj|c:\\users\\someo\\source\\repos\\bilgeadamtest\\config\\configtxt.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BC6EE310-FD2E-4435-95E6-7FC0E4083BDD}|BilgeAdamTest.csproj|solutionrelative:config\\configtxt.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC6EE310-FD2E-4435-95E6-7FC0E4083BDD}|BilgeAdamTest.csproj|c:\\users\\someo\\source\\repos\\bilgeadamtest\\utilities\\configreader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC6EE310-FD2E-4435-95E6-7FC0E4083BDD}|BilgeAdamTest.csproj|solutionrelative:utilities\\configreader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC6EE310-FD2E-4435-95E6-7FC0E4083BDD}|BilgeAdamTest.csproj|c:\\users\\someo\\source\\repos\\bilgeadamtest\\drivers\\driverfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC6EE310-FD2E-4435-95E6-7FC0E4083BDD}|BilgeAdamTest.csproj|solutionrelative:drivers\\driverfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC6EE310-FD2E-4435-95E6-7FC0E4083BDD}|BilgeAdamTest.csproj|c:\\users\\someo\\source\\repos\\bilgeadamtest\\tests\\basetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC6EE310-FD2E-4435-95E6-7FC0E4083BDD}|BilgeAdamTest.csproj|solutionrelative:tests\\basetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC6EE310-FD2E-4435-95E6-7FC0E4083BDD}|BilgeAdamTest.csproj|c:\\users\\someo\\source\\repos\\bilgeadamtest\\pages\\loginpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC6EE310-FD2E-4435-95E6-7FC0E4083BDD}|BilgeAdamTest.csproj|solutionrelative:pages\\loginpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 13,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CheckoutTests.cs",
+              "DocumentMoniker": "C:\\Users\\someo\\source\\repos\\BilgeAdamTest\\Tests\\CheckoutTests.cs",
+              "RelativeDocumentMoniker": "Tests\\CheckoutTests.cs",
+              "ToolTip": "C:\\Users\\someo\\source\\repos\\BilgeAdamTest\\Tests\\CheckoutTests.cs",
+              "RelativeToolTip": "Tests\\CheckoutTests.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAgwEUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T13:20:21.843Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CheckoutCompletePage.cs",
+              "DocumentMoniker": "C:\\Users\\someo\\source\\repos\\BilgeAdamTest\\Pages\\CheckoutCompletePage.cs",
+              "RelativeDocumentMoniker": "Pages\\CheckoutCompletePage.cs",
+              "ToolTip": "C:\\Users\\someo\\source\\repos\\BilgeAdamTest\\Pages\\CheckoutCompletePage.cs",
+              "RelativeToolTip": "Pages\\CheckoutCompletePage.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T13:14:01.576Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CheckoutStepTwoPage.cs",
+              "DocumentMoniker": "C:\\Users\\someo\\source\\repos\\BilgeAdamTest\\Pages\\CheckoutStepTwoPage.cs",
+              "RelativeDocumentMoniker": "Pages\\CheckoutStepTwoPage.cs",
+              "ToolTip": "C:\\Users\\someo\\source\\repos\\BilgeAdamTest\\Pages\\CheckoutStepTwoPage.cs",
+              "RelativeToolTip": "Pages\\CheckoutStepTwoPage.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T13:12:27.504Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CheckoutStepOnePage.cs",
+              "DocumentMoniker": "C:\\Users\\someo\\source\\repos\\BilgeAdamTest\\Pages\\CheckoutStepOnePage.cs",
+              "RelativeDocumentMoniker": "Pages\\CheckoutStepOnePage.cs",
+              "ToolTip": "C:\\Users\\someo\\source\\repos\\BilgeAdamTest\\Pages\\CheckoutStepOnePage.cs",
+              "RelativeToolTip": "Pages\\CheckoutStepOnePage.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T13:11:07.966Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CartTests.cs",
+              "DocumentMoniker": "C:\\Users\\someo\\source\\repos\\BilgeAdamTest\\Tests\\CartTests.cs",
+              "RelativeDocumentMoniker": "Tests\\CartTests.cs",
+              "ToolTip": "C:\\Users\\someo\\source\\repos\\BilgeAdamTest\\Tests\\CartTests.cs",
+              "RelativeToolTip": "Tests\\CartTests.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAgwDsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T12:35:54.404Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CartPage.cs",
+              "DocumentMoniker": "C:\\Users\\someo\\source\\repos\\BilgeAdamTest\\Pages\\CartPage.cs",
+              "RelativeDocumentMoniker": "Pages\\CartPage.cs",
+              "ToolTip": "C:\\Users\\someo\\source\\repos\\BilgeAdamTest\\Pages\\CartPage.cs",
+              "RelativeToolTip": "Pages\\CartPage.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAUwCoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T12:31:49.814Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DataReader.cs",
+              "DocumentMoniker": "C:\\Users\\someo\\source\\repos\\BilgeAdamTest\\Utilities\\DataReader.cs",
+              "RelativeDocumentMoniker": "Utilities\\DataReader.cs",
+              "ToolTip": "C:\\Users\\someo\\source\\repos\\BilgeAdamTest\\Utilities\\DataReader.cs",
+              "RelativeToolTip": "Utilities\\DataReader.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T12:25:53.974Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "TestDataModel.cs",
+              "DocumentMoniker": "C:\\Users\\someo\\source\\repos\\BilgeAdamTest\\Utilities\\TestDataModel.cs",
+              "RelativeDocumentMoniker": "Utilities\\TestDataModel.cs",
+              "ToolTip": "C:\\Users\\someo\\source\\repos\\BilgeAdamTest\\Utilities\\TestDataModel.cs",
+              "RelativeToolTip": "Utilities\\TestDataModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T12:25:18.958Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ProductModel.cs",
+              "DocumentMoniker": "C:\\Users\\someo\\source\\repos\\BilgeAdamTest\\Utilities\\ProductModel.cs",
+              "RelativeDocumentMoniker": "Utilities\\ProductModel.cs",
+              "ToolTip": "C:\\Users\\someo\\source\\repos\\BilgeAdamTest\\Utilities\\ProductModel.cs",
+              "RelativeToolTip": "Utilities\\ProductModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T12:24:46.507Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "products.json",
+              "DocumentMoniker": "C:\\Users\\someo\\source\\repos\\BilgeAdamTest\\TestData\\products.json",
+              "RelativeDocumentMoniker": "TestData\\products.json",
+              "ToolTip": "C:\\Users\\someo\\source\\repos\\BilgeAdamTest\\TestData\\products.json",
+              "RelativeToolTip": "TestData\\products.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-04T12:23:09.88Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CustomWait.cs",
+              "DocumentMoniker": "C:\\Users\\someo\\source\\repos\\BilgeAdamTest\\Utilities\\CustomWait.cs",
+              "RelativeDocumentMoniker": "Utilities\\CustomWait.cs",
+              "ToolTip": "C:\\Users\\someo\\source\\repos\\BilgeAdamTest\\Utilities\\CustomWait.cs",
+              "RelativeToolTip": "Utilities\\CustomWait.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T11:45:58.032Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ProductsPage.cs",
+              "DocumentMoniker": "C:\\Users\\someo\\source\\repos\\BilgeAdamTest\\Pages\\ProductsPage.cs",
+              "RelativeDocumentMoniker": "Pages\\ProductsPage.cs",
+              "ToolTip": "C:\\Users\\someo\\source\\repos\\BilgeAdamTest\\Pages\\ProductsPage.cs",
+              "RelativeToolTip": "Pages\\ProductsPage.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAwCkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T18:03:54.232Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LoginTests.cs",
+              "DocumentMoniker": "C:\\Users\\someo\\source\\repos\\BilgeAdamTest\\Tests\\LoginTests.cs",
+              "RelativeDocumentMoniker": "Tests\\LoginTests.cs",
+              "ToolTip": "C:\\Users\\someo\\source\\repos\\BilgeAdamTest\\Tests\\LoginTests.cs",
+              "RelativeToolTip": "Tests\\LoginTests.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAB0AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T17:46:01.989Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BilgeAdamTest.csproj",
+              "DocumentMoniker": "C:\\Users\\someo\\source\\repos\\BilgeAdamTest\\BilgeAdamTest.csproj",
+              "RelativeDocumentMoniker": "BilgeAdamTest.csproj",
+              "ToolTip": "C:\\Users\\someo\\source\\repos\\BilgeAdamTest\\BilgeAdamTest.csproj",
+              "RelativeToolTip": "BilgeAdamTest.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-03T17:02:10.23Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "LoginPage.cs",
+              "DocumentMoniker": "C:\\Users\\someo\\source\\repos\\BilgeAdamTest\\Pages\\LoginPage.cs",
+              "RelativeDocumentMoniker": "Pages\\LoginPage.cs",
+              "ToolTip": "C:\\Users\\someo\\source\\repos\\BilgeAdamTest\\Pages\\LoginPage.cs",
+              "RelativeToolTip": "Pages\\LoginPage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T17:31:25.401Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "BaseTest.cs",
+              "DocumentMoniker": "C:\\Users\\someo\\source\\repos\\BilgeAdamTest\\Tests\\BaseTest.cs",
+              "RelativeDocumentMoniker": "Tests\\BaseTest.cs",
+              "ToolTip": "C:\\Users\\someo\\source\\repos\\BilgeAdamTest\\Tests\\BaseTest.cs",
+              "RelativeToolTip": "Tests\\BaseTest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T17:25:58.194Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "DriverFactory.cs",
+              "DocumentMoniker": "C:\\Users\\someo\\source\\repos\\BilgeAdamTest\\Drivers\\DriverFactory.cs",
+              "RelativeDocumentMoniker": "Drivers\\DriverFactory.cs",
+              "ToolTip": "C:\\Users\\someo\\source\\repos\\BilgeAdamTest\\Drivers\\DriverFactory.cs",
+              "RelativeToolTip": "Drivers\\DriverFactory.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABUAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T17:20:58.932Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ConfigReader.cs",
+              "DocumentMoniker": "C:\\Users\\someo\\source\\repos\\BilgeAdamTest\\Utilities\\ConfigReader.cs",
+              "RelativeDocumentMoniker": "Utilities\\ConfigReader.cs",
+              "ToolTip": "C:\\Users\\someo\\source\\repos\\BilgeAdamTest\\Utilities\\ConfigReader.cs",
+              "RelativeToolTip": "Utilities\\ConfigReader.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T17:11:53.399Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "configTxt.json",
+              "DocumentMoniker": "C:\\Users\\someo\\source\\repos\\BilgeAdamTest\\Config\\configTxt.json",
+              "RelativeDocumentMoniker": "Config\\configTxt.json",
+              "ToolTip": "C:\\Users\\someo\\source\\repos\\BilgeAdamTest\\Config\\configTxt.json",
+              "RelativeToolTip": "Config\\configTxt.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-03T17:07:38.206Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
